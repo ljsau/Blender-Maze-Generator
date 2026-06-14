@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "maze_generator"
-version = "0.3.0.1"
+version = "0.3.1"
 name = "Maze Generator"
 tagline = "A Maze generator extension for Blender"
 maintainer = "Lee Shaw <leeroymajors@outlook.com.au>"
