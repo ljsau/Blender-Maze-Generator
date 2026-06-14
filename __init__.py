@@ -27,7 +27,7 @@ bl_info = {
     "blender": (4, 2, 0),
     "category": "Object",
     "author": "Lee Shaw",
-    "version": (0, 3, 0),
+    "version": (0, 3, 1),
     "location": "View3D > Sidebar > Create",
     "description": "Generates a random maze mesh",
     "warning": "",
